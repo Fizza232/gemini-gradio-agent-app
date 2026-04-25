@@ -10,10 +10,6 @@ This project demonstrates practical implementation of LLM integration, session s
 
 To build a fully functional AI chat interface that supports multiple independent chat sessions, maintains conversation history across turns, and delivers a smooth user experience through a clean Gradio-based UI.
 
-## App Preview
-
-> Add a screenshot here after launching the app
-
 ---
 
 ## Features
